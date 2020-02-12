@@ -30,12 +30,12 @@ ul {
 }
 li a:hover{
 	text-decoration: underline;
-	color: gray;
+	color: blue;
 
 }
 a,sign:hover{
 	text-decoration: none !important;
-	color: white !important;
+	color: white ;
 }
 img.google{
 	width: 290px;
