@@ -1,0 +1,1 @@
+this was my first web site which is a mimick of the google homepage and all or some of the code has been sampled from the gogle home page using chome developer tools
